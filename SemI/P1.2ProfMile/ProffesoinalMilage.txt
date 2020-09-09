@@ -1,0 +1,9 @@
+Project p1.2.
+
+Ask the user for input: “How many mile do you live from work:”
+Ask user for input: “How many miles do you drive weekly:”
+Multiply the number of miles from work by two.
+Multiply this product by five.
+Take that product & subtract it from the number of miles that the user drove that week collectively.
+Print out the number of miles used for professional use.
+Print the number of miles used for personal use.
